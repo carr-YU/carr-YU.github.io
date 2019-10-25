@@ -1,9 +1,9 @@
 # Basic
-title: Vno Jekyll
+title: carr-YU
 subtitle: A blog-orientation theme for Jekyll
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+description: carr-YU is a port of my Ghost theme vno.
+creator: @carr-YU
 
 url: "http://vno.onevcat.com"
 
@@ -37,11 +37,9 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
+   
     github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: 823125060@qq.com
 
 # Google Analytics
 ga:
